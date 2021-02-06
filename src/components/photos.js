@@ -1,6 +1,6 @@
 import React from 'react';
 import dog1 from './images/dog1.jpg';
-import cat from './images/cat.jpg';
+import cat from './images/IMG_2633001.jpg';
 import dog2 from './images/dog2.jpg';
 import './css/photos.css';
 
